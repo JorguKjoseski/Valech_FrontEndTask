@@ -17,6 +17,6 @@ Valtech junior Front End task. Тhis project is built with HTML CSS and JavaScri
 ## Instalattion
 ***
 
-$ git clone https:// URL path
+$ git clone https://github.com/JorguKjoseski/Valech_FrontEndTask.git
 $ cd ../path/to/the/file
 $ start index.html

@@ -394,7 +394,7 @@ img {
 @media screen and (max-width:426px) {
     .span_one, .span_two, .span_three {
         font-size: 1.5rem;
-    }
+    }   
 }
 
 @media screen and (max-width:768px) {
@@ -517,7 +517,8 @@ img {
 
 @media screen and (max-width:769px) {
     #sectionThree {
-        /* padding-bottom: 60%; */
+        overflow: hidden;
+        padding:30%;
         background: (url(../img/urn_aaid_sc_US_7caf7dca-ad70-4ac8-b12d-5ffecf57a19eKOR.png));
     }
     .onLaptop {
@@ -559,6 +560,8 @@ img {
         margin: 0 0 1% 4%;
     }
 }
+
+
 
 /* _________________________________________________- */
 

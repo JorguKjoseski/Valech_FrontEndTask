@@ -25,12 +25,13 @@ nav {
     background-color: rgb(255, 255, 255);
 }
 
-.logo {
+.logo a {
     color: black;
     letter-spacing: 2px;
     font-size: 2rem;
     font-weight: bolder;
-    cursor: pointer;
+    cursor: pointer; 
+    text-decoration: none;   
 }
 
 .nav-links {
@@ -432,6 +433,7 @@ img {
     height: 100vh;
     position: relative;
     overflow: hidden;
+    /* background-size: contain; */ 
 }
 
 .onTablet {
